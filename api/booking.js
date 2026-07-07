@@ -17,7 +17,7 @@ export default async function handler(req, res) {
     // 1) insert data base
     await addBookingToDatabase(data);
     // 2) Gửi Telegram
-    // await sendTelegram(data);
+    await sendTelegram(data);
 
     // 3) Gửi Email Admin
     await sendEmail(data);
