@@ -17,16 +17,16 @@ export default async function handler(req, res) {
     // 1) insert data base
     await addBookingToDatabase(data);
     // 2) Gửi Telegram
-    await sendTelegram(data);
+    // await sendTelegram(data);
 
     // 3) Gửi Email Admin
     await sendEmail(data);
 
     // 4) Gửi Google Sheet
-    await sendToSheet(data);
+    // await sendToSheet(data);
 
     // 5) Gửi Email Xác Nhận Người Dùng
-    await confirmEmail(data);
+    // await confirmEmail(data);
 
     return res.status(200).json({ status: "ok" });
   } catch (err) {
