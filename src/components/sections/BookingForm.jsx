@@ -199,7 +199,6 @@ export default function BookingForm({
                     name="email"
                     type="email"
                     placeholder="example@gmail.com"
-                    required
                   />
                 </div>
               </div>
