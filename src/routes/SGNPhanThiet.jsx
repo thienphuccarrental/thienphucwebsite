@@ -13,7 +13,7 @@ export default function RoutePhanThiet() {
       "provider": {
         "@type": "LocalBusiness",
         "name": "Fanvist Travel",
-        "telephone": "+84844232144",
+        "telephone": "+84978934334",
         "url": "https://thuexephanthiet.info.vn"
       },
       "distance": "180 km",

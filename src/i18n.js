@@ -5,8 +5,8 @@ const resources = {
   vi: {
     translation: {
       seo: {
-        title: 'Thuê xe Sài Gòn - Phan Thiết - Mũi Né - Nha Trang - Đà Lạt | 0844232144',
-        description: 'Dịch vụ đặt xe riêng tuyến Sài Gòn - Phan Thiết - Mũi Né - Đà Lạt - Nha Trang. Đưa đón tận nơi, tài xế kinh nghiệm, phục vụ hơn 34 tỉnh thành. Gọi 0844232144 để được tư vấn nhanh.'
+        title: 'Thuê xe Sài Gòn - Phan Thiết - Mũi Né - Nha Trang - Đà Lạt | 0978934334',
+        description: 'Dịch vụ đặt xe riêng tuyến Sài Gòn - Phan Thiết - Mũi Né - Đà Lạt - Nha Trang. Đưa đón tận nơi, tài xế kinh nghiệm, phục vụ hơn 34 tỉnh thành. Gọi 0978934334 để được tư vấn nhanh.'
       },
       header: {
         brand: 'Thuê Xe Riêng Trọn Gói Giá Rẻ'
@@ -33,7 +33,7 @@ const resources = {
           'Hỗ trợ hơn 34 tỉnh thành'
         ],
         ctaBook: 'Đặt xe ngay',
-        ctaCall: 'Gọi 0844 232 144',
+        ctaCall: 'Gọi 0978 934 334',
         note: 'Đặt trước càng sớm, càng dễ chọn giờ đẹp & giữ chỗ ngày cao điểm (cuối tuần, lễ, Tết).'
       },
       benefits: {
@@ -55,7 +55,7 @@ const resources = {
       },
       pricing: {
         title: 'Bảng giá tham khảo',
-        note: 'Giá có thể thay đổi theo thời điểm (cuối tuần, lễ Tết, giờ đêm, điểm đón trả cụ thể). Vui lòng gọi 0844 232 144 hoặc gửi form để nhận báo giá chính xác.',
+        note: 'Giá có thể thay đổi theo thời điểm (cuối tuần, lễ Tết, giờ đêm, điểm đón trả cụ thể). Vui lòng gọi 0978 934 334 hoặc gửi form để nhận báo giá chính xác.',
         cols: {
           route: 'Tuyến',
           car4: 'Xe 4–5 chỗ',
@@ -102,7 +102,7 @@ const resources = {
           'Kiên Giang',
           'Hậu Giang'
         ],
-        provinceNote: 'Nếu quý khách cần đón hoặc trả khách tại tỉnh/thành khác, vui lòng gọi 0844 232 144 để được tư vấn lịch trình & chi phí chi tiết.'
+        provinceNote: 'Nếu quý khách cần đón hoặc trả khách tại tỉnh/thành khác, vui lòng gọi 0978 934 334 để được tư vấn lịch trình & chi phí chi tiết.'
       },
       booking: {
         title: 'Đặt xe riêng nhanh',
@@ -110,7 +110,7 @@ const resources = {
         fullName: 'Họ và tên *',
         fullNamePlaceholder: 'Nguyễn Văn A',
         phone: 'Số điện thoại *',
-        phonePlaceholder: '0844 232 144',
+        phonePlaceholder: '0978 934 334',
         email: "Email *",
         route: 'Tuyến đường *',
         routeOptions: {
@@ -145,7 +145,7 @@ const resources = {
         note: 'Ghi chú thêm',
         notePlaceholder: 'Số lượng khách, có trẻ em, hành lý nhiều, yêu cầu ghế trẻ em...',
         submit: 'Gửi yêu cầu đặt xe',
-        afterSubmit: 'Sau khi gửi form, quý khách vui lòng giữ máy. Admin sẽ gọi/zalo lại trong thời gian sớm nhất qua số 0844 232 144.',
+        afterSubmit: 'Sau khi gửi form, quý khách vui lòng giữ máy. Admin sẽ gọi/zalo lại trong thời gian sớm nhất qua số 0978 934 334.',
         alert: 'Đã gửi yêu cầu đặt xe!\nAdmin sẽ liên hệ lại qua số hoặc Zalo bạn cung cấp.'
       },
       contactSection: {
@@ -160,7 +160,7 @@ const resources = {
         items: [
           {
             q: 'Giá xe riêng Sài Gòn – Phan Thiết – Mũi Né – Nha Trang tính như thế nào?',
-            a: 'Giá phụ thuộc vào tuyến đường, loại xe, thời gian đi (ngày thường/cuối tuần/lễ Tết) và điểm đón trả cụ thể. Bạn vui lòng gọi 0844 232 144 hoặc gửi form, admin sẽ báo giá chính xác.'
+            a: 'Giá phụ thuộc vào tuyến đường, loại xe, thời gian đi (ngày thường/cuối tuần/lễ Tết) và điểm đón trả cụ thể. Bạn vui lòng gọi 0978 934 334 hoặc gửi form, admin sẽ báo giá chính xác.'
           },
           {
             q: 'Tôi có thể đặt xe đi nhiều ngày, nhiều điểm dừng được không?',
@@ -177,7 +177,7 @@ const resources = {
         ]
       },
       footer: {
-        text1: 'Dịch vụ đặt xe riêng Sài Gòn – Phan Thiết – Mũi Né – Nha Trang. Hotline/Zalo: 0844 232 144.',
+        text1: 'Dịch vụ đặt xe riêng Sài Gòn – Phan Thiết – Mũi Né – Nha Trang. Hotline/Zalo: 0978 934 334.',
         text2: 'Website tối ưu SEO với các từ khóa: đặt xe riêng Sài Gòn Phan Thiết, xe riêng Sài Gòn Mũi Né, xe riêng Sài Gòn Nha Trang, xe đưa đón tận nơi, xe du lịch riêng 4–7–16 chỗ.'
       }
     }
@@ -185,8 +185,8 @@ const resources = {
   en: {
     translation: {
       seo: {
-        title: 'Private car Saigon - Phan Thiet - Mui Ne - Nha Trang - Da Lat | +84844232144',
-        description: 'Private car service from Saigon to Phan Thiet - Mui Ne - Da Lat - Nha Trang. Door-to-door pickup, experienced drivers, serving 34+ provinces. Call 0844232144 for quick support.'
+        title: 'Private car Saigon - Phan Thiet - Mui Ne - Nha Trang - Da Lat | +84978934334',
+        description: 'Private car service from Saigon to Phan Thiet - Mui Ne - Da Lat - Nha Trang. Door-to-door pickup, experienced drivers, serving 34+ provinces. Call 0978934334 for quick support.'
       },
       header: {
         brand: 'Private Car SG ⇆ Phan Thiet • Mui Ne • Nha Trang'
@@ -213,7 +213,7 @@ const resources = {
           'Serving 34+ provinces'
         ],
         ctaBook: 'Book now',
-        ctaCall: 'Call 0844 232 144',
+        ctaCall: 'Call 0978 934 334',
         note: 'Book early to secure good time slots & avoid fully booked days on weekends and holidays.'
       },
       benefits: {
@@ -235,7 +235,7 @@ const resources = {
       },
       pricing: {
         title: 'Reference pricing',
-        note: 'Prices may vary depending on time (weekends, holidays, night hours) and exact pickup/drop-off locations. Please call 0844 232 144 or submit the form to get an exact quote.',
+        note: 'Prices may vary depending on time (weekends, holidays, night hours) and exact pickup/drop-off locations. Please call 0978 934 334 or submit the form to get an exact quote.',
         cols: {
           route: 'Route',
           car4: '4–5 seat car',
@@ -282,7 +282,7 @@ const resources = {
           'Kien Giang',
           'Hau Giang'
         ],
-        provinceNote: 'If you need pickup/drop-off in other provinces/cities, please call 0844 232 144 for detailed schedule & pricing.'
+        provinceNote: 'If you need pickup/drop-off in other provinces/cities, please call 0978 934 334 for detailed schedule & pricing.'
       },
       booking: {
         title: 'Quick booking',
@@ -290,7 +290,7 @@ const resources = {
         fullName: 'Full name *',
         fullNamePlaceholder: 'e.g. John Nguyen',
         phone: 'Phone number *',
-        phonePlaceholder: '0844 232 144',
+        phonePlaceholder: '0978 934 334',
         email: "Email *",
         route: 'Route *',
         routeOptions: {
@@ -340,7 +340,7 @@ const resources = {
         items: [
           {
             q: 'How is the price for Saigon – Phan Thiet – Mui Ne – Nha Trang private car calculated?',
-            a: 'The price depends on route, car type, travel time (weekday/weekend/holiday) and exact pickup/drop-off points. Please call 0844 232 144 or submit the form for an exact quote.'
+            a: 'The price depends on route, car type, travel time (weekday/weekend/holiday) and exact pickup/drop-off points. Please call 0978 934 334 or submit the form for an exact quote.'
           },
           {
             q: 'Can I book a multi-day trip with many stops?',
@@ -357,7 +357,7 @@ const resources = {
         ]
       },
       footer: {
-        text1: 'Private car service Saigon – Phan Thiet – Mui Ne – Nha Trang. Hotline/Zalo: 0844 232 144.',
+        text1: 'Private car service Saigon – Phan Thiet – Mui Ne – Nha Trang. Hotline/Zalo: 0978 934 334.',
         text2: 'SEO-optimized website for keywords like: private car Saigon Phan Thiet, private car Saigon Mui Ne, private car Saigon Nha Trang, door-to-door transfer, private 4–7–16 seat car.'
       }
     }

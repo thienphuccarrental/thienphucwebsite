@@ -4,7 +4,7 @@
   "@id": "https://thuexephanthiet.info.vn#business",
   "name": "Dịch vụ xe riêng Sài Gòn – Phan Thiết – Mũi Né – Đà Lạt – Nha Trang",
   "image": "https://thuexephanthiet.info.vn/logo.webp",
-  "telephone": "+84844232144",
+  "telephone": "+84978934334",
   "url": "https://thuexephanthiet.info.vn",
   "priceRange": "$$",
   "address": {
@@ -20,13 +20,13 @@
     "longitude": 108.277199
   },
   "sameAs": [
-    "https://zalo.me/0844232144",
+    "https://zalo.me/0978934334",
     "https://m.me/thuexesaigonphanthietmuine",
     "https://maps.app.goo.gl/dkXALnmKtSHGVoqx5"
   ],
   "contactPoint": {
     "@type": "ContactPoint",
-    "telephone": "+84844232144",
+    "telephone": "+84978934334",
     "contactType": "customer service",
     "availableLanguage": ["Vietnamese", "English"]
   }

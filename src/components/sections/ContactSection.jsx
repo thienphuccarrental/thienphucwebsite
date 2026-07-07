@@ -12,8 +12,8 @@ export default function ContactSection() {
           <div className="contact-box">
             <div className="contact-pill">
               <span>📞 {t('contactSection.phoneLabel')}</span>
-              <a href="tel:0844232144">
-                <strong>0844 232 144</strong>
+              <a href="tel:0978934334">
+                <strong>0978 934 334</strong>
               </a>
             </div>
             <a
@@ -26,7 +26,7 @@ export default function ContactSection() {
             </a>
             <a
               className="social-btn btn-zalo"
-              href="https://zalo.me/0844232144"
+              href="https://zalo.me/0978934334"
               target="_blank"
               rel="noopener noreferrer"
             >

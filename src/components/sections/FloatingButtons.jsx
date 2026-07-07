@@ -3,7 +3,7 @@ export default function FloatingButtons() {
         <div className={`floating-buttons`}>
 
             <a
-                href="tel:0844232144"
+                href="tel:0978934334"
                 target="_blank"
                 className="float-btn"
             >
@@ -29,7 +29,7 @@ export default function FloatingButtons() {
             </a>
 
             <a
-                href="https://zalo.me/0844232144"
+                href="https://zalo.me/0978934334"
                 target="_blank"
                 className="float-btn"
             >

@@ -232,8 +232,8 @@ export default function Header() {
 
           {/* HOTLINE */}
           <div className="hd-right">
-            <a href="tel:0844232144" className="hotline-btn">
-              📞 0844 232 144
+            <a href="tel:0978934334" className="hotline-btn">
+              📞 0978 934 334
             </a>
           </div>
         </div>
@@ -250,8 +250,8 @@ export default function Header() {
             <span></span>
           </button>
 
-          <a href="tel:0844232144" className="hotline-btn mobile-hotline">
-            📞 0844 232 144
+          <a href="tel:0978934334" className="hotline-btn mobile-hotline">
+            📞 0978 934 334
           </a>
 
           <a href="/">
