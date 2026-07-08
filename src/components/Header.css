@@ -1,6 +1,6 @@
 :root {
-  --primary: #0a8c7d;
-  --primary-light: #15b6a8;
+  --primary: #000000;
+  --primary-light: #08a82b;
 }
 
 /* HEADER */
@@ -233,7 +233,7 @@
 /* Active button (toggle ON) */
 .lang-switch button.active {
   background: rgba(255,255,255,0.85);
-  color: #0A8C7D; /* màu chủ đạo */
+  color: #000000; /* màu chủ đạo */
   font-weight: 700;
   box-shadow: 0 3px 10px rgba(0,0,0,0.15);
 }

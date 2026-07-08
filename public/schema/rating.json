@@ -1,8 +1,8 @@
 {
   "@context": "https://schema.org",
   "@type": "AggregateRating",
-  "@id": "https://thuexephanthiet.info.vn#rating",
-  "itemReviewed": { "@id": "https://thuexephanthiet.info.vn#business" },
+  "@id": "https://www.thienphuccarrental.com#rating",
+  "itemReviewed": { "@id": "https://www.thienphuccarrental.com#business" },
   "ratingValue": "5",
   "bestRating": "5",
   "ratingCount": "268",
