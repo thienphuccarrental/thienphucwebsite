@@ -1,5 +1,5 @@
 :root {
-  --primary: #000000;
+  --primary: #15d4d4;
   --primary-light: #08a82b;
 }
 
@@ -8,7 +8,7 @@
   position: sticky;
   top: 0;
   z-index: 100;
-  background: linear-gradient(135deg, var(--primary), var(--primary-light));
+  background: #000000;
   padding: 8px 18px !important;
   color: white;
 }
