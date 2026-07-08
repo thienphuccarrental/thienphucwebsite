@@ -1,6 +1,6 @@
 :root {
   --primary: #15d4d4;
-  --primary-light: #08a82b;
+  --primary-light: #12bb36;
 }
 
 /* HEADER */
@@ -8,7 +8,7 @@
   position: sticky;
   top: 0;
   z-index: 100;
-  background: #1e3a8a;
+  background: #0aaadb;
   padding: 8px 18px !important;
   color: white;
 }
