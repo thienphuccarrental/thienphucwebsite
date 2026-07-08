@@ -1,12 +1,12 @@
 {
   "@context": "https://schema.org",
   "@type": "ItemList",
-  "@id": "https://thuexephanthiet.info.vn#trips",
+  "@id": "https://www.thienphuccarrental.com/#trips",
   "itemListElement": [
     {
       "@type": "Trip",
       "name": "SGN → Phan Thiết",
-      "provider": { "@id": "https://thuexephanthiet.info.vn#business" },
+      "provider": { "@id": "https://www.thienphuccarrental.com/#business" },
       "distance": "180 km",
       "estimatedTime": "3h – 3.5h",
       "offers": [
@@ -17,7 +17,7 @@
     {
       "@type": "Trip",
       "name": "SGN → Mũi Né",
-      "provider": { "@id": "https://thuexephanthiet.info.vn#business" },
+      "provider": { "@id": "https://www.thienphuccarrental.com/#business" },
       "distance": "200 km",
       "estimatedTime": "3.5h – 4h",
       "offers": [
@@ -52,3 +52,4 @@
     }
   ]
 }
+

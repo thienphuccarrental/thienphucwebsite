@@ -143,7 +143,7 @@ export default function Header() {
         <div className="header-desktop">
           <div className="hd-left">
             <a href="/">
-              <img src="/logo.webp" className="site-logo" alt="Fanvist Travel" />
+              <img src="/logo.webp" className="site-logo" alt="Thiên Phúc Car Rental" />
             </a>
           </div>
 
@@ -331,3 +331,4 @@ export default function Header() {
     </>
   );
 }
+

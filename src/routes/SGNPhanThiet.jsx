@@ -12,9 +12,9 @@ export default function RoutePhanThiet() {
       "name": "Xe riêng Sài Gòn → Phan Thiết / Mũi Né",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Fanvist Travel",
+        "name": "Thi�n Ph�c Car Rental",
         "telephone": "+84978934334",
-        "url": "https://thuexephanthiet.info.vn"
+        "url": "https://www.thienphuccarrental.com/"
       },
       "distance": "180 km",
       "estimatedTime": "3 – 3.5 giờ",
@@ -127,3 +127,5 @@ export default function RoutePhanThiet() {
     </main>
   );
 }
+
+

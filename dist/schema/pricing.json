@@ -1,9 +1,9 @@
 {
   "@context": "https://schema.org",
   "@type": "OfferCatalog",
-  "@id": "https://thuexephanthiet.info.vn#pricing",
+  "@id": "https://www.thienphuccarrental.com/#pricing",
   "name": "Bảng giá xe riêng",
-  "provider": { "@id": "https://thuexephanthiet.info.vn#business" },
+  "provider": { "@id": "https://www.thienphuccarrental.com/#business" },
   "itemListElement": [
     { "@type": "Offer", "name": "SGN → Phan Thiết", "price": "1200000", "priceCurrency": "VND" },
     { "@type": "Offer", "name": "SGN → Mũi Né", "price": "1300000", "priceCurrency": "VND" },
@@ -11,3 +11,4 @@
     { "@type": "Offer", "name": "SGN → Nha Trang", "price": "3900000", "priceCurrency": "VND" }
   ]
 }
+

@@ -2,10 +2,11 @@
   "@context": "https://schema.org",
   "@type": "WebSite",
   "url": "https://www.thienphuccarrental.com",
-  "name": "Fanvist Travel",
+  "name": "Thiên Phúc Car Rental",
   "potentialAction": {
     "@type": "SearchAction",
     "target": "https://www.thienphuccarrental.com/?s={search_term_string}",
     "query-input": "required name=search_term_string"
   }
 }
+
