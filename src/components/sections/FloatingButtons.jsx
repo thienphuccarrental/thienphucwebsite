@@ -11,7 +11,7 @@ export default function FloatingButtons() {
             </a>
 
             <a
-                href="https://wa.me/message/KYYD2CHTTITCL1"
+                href="https://wa.me/message/JU4ITOY7XVR3G1"
                 target="_blank"
                 className="float-btn"
 
@@ -20,7 +20,7 @@ export default function FloatingButtons() {
             </a>
 
             <a
-                href="https://m.me/thuexesaigonphanthietmuine"
+                href="https://m.me/nobles.pauvres"
                 target="_blank"
                 className="float-btn"
 
