@@ -1,5 +1,5 @@
 :root {
-  --primary: #15d4d4;
+  --primary: #0a0a0a;
   --primary-light: #12bb36;
 }
 
@@ -8,7 +8,7 @@
   position: sticky;
   top: 0;
   z-index: 100;
-  background: #0aaadb;
+  background: #000000;
   padding: 8px 18px !important;
   color: white;
 }
